@@ -20,7 +20,3 @@ selector {
     height: 100vh;
     width: 100vw;
 }
-
-canvas {
-  overflow-x: hidden;
-}
